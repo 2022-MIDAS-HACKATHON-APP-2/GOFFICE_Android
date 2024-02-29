@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GOFFICE</string>
+    <string name="app_logo">App logo</string>
+    <string name="input_email">이메일을 입력해주세요.</string>
+    <string name="input_password">비밀번호를 입력해주세요.</string>
+    <string name="input_phone">폰번호를 입력해주세요.</string>
+    <string name="login">로그인</string>
+    <string name="input_name">이름을 입력해주세요.</string>
+    <string name="input_company">회사를 입력해주세요.</string>
+    <string name="input_depart">부서 입력</string>
+    <string name="input_rank">직급 입력</string>
+    <string name="register">회원가입</string>
+    <string name="work">출근할게요!</string>
+    <string name="categoryCar">카플</string>
+    <string name="categoryOther">기타</string>
+    <string name="categoryTexi">택시</string>
+    <string name="categoryCoffe">커피</string>
+    <string name="categoryLunch">점심</string>
+    <string name="registerCompany">회사 등록하기</string>
+    <string name="input_company_name">회사 이름을 입력해주세요</string>
+    <string name="input_article_name">제목을 입력해 주세요.</string>
+    <string name="input_article_content">내용을 입력해 주세요.</string>
+</resources>
